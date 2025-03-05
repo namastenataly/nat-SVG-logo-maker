@@ -1,0 +1,31 @@
+{
+  "name": "nat-svg-logo-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namastenataly/nat-SVG-logo-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namastenataly/nat-SVG-logo-maker/issues"
+  },
+  "homepage": "https://github.com/namastenataly/nat-SVG-logo-maker#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^12.4.2"
+  }
+}
